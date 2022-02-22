@@ -38,3 +38,30 @@ body {
 .body-img {
   width: 600px;
 }
+
+/* About us section */
+.about {
+  padding-top: 60px;
+  margin: 3%;
+  font-family: montserrat;
+}
+.about-paragraph {
+  text-align: left;
+  font-family: ubuntu;
+}
+
+/* Our services section */
+.our-services {
+  margin: 3%;
+}
+.our-services-paragraph {
+  text-align: left;
+  font-family: ubuntu;
+  margin: 3%;
+}
+.card-bighead {
+  font-family: montserrat;
+}
+.card-input {
+  font-family: ubuntu;
+}
