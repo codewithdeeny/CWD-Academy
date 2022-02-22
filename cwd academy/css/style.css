@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+}
+
+/* navigation bar section */
+.navbar {
+  padding-top: 30px;
+}
+.navbar-brand {
+  margin-left: 45px;
+  font-size: x-large;
+}
+.nav-item {
+  margin-left: 20px;
+}
+.nav-items {
+  margin-left: 45rem;
+}
+
+/* body section */
+.body-h1 {
+  font-family: montserrat;
+  font-weight: 900;
+  font-size: 70px;
+}
+.body-h3 {
+  line-height: 1.5;
+  font-family: ubuntu;
+  margin-top: 30px;
+}
+.body-section {
+  margin: 3%;
+}
+.body-text {
+  text-align: left;
+  margin-top: 40px;
+}
+.body-img {
+  width: 600px;
+}
