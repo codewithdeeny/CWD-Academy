@@ -78,7 +78,8 @@ body {
 }
 .testimonial-images {
   margin-right: 20px;
-  height: 300px;
+  padding-bottom: 15px;
+  height: 250px;
   width: 250px;
   border-radius: 100%;
 }
@@ -98,4 +99,48 @@ body {
 }
 .carousel-control-prev-icon {
   margin-right: 150px;
+}
+
+/* Team section */
+
+.teams-image {
+  border-radius: 100%;
+  width: 250px;
+  height: 300px;
+}
+.team-name {
+  font-family: montserrat;
+  margin-top: 20px;
+}
+.team-skills {
+  font-family: ubuntu;
+}
+.team-paragraph {
+  text-align: left;
+  font-family: ubuntu;
+  margin: 3%;
+  padding-top: 100px;
+}
+
+/* contact session */
+#contact-me {
+  background-color: #15202b;
+}
+.contact-h1 {
+  color: #fff;
+  font-family: montserrat;
+  margin: 5%;
+  padding-top: 30px;
+}
+.contact-h3 {
+  color: #fff;
+  font-family: ubuntu;
+}
+
+.social-media {
+  margin-left: 10px;
+  color: #fff;
+}
+.footer {
+  padding: 20px;
 }
