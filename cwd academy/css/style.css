@@ -41,7 +41,7 @@ body {
 
 /* About us section */
 .about {
-  padding-top: 60px;
+  padding-top: 100px;
   margin: 3%;
   font-family: montserrat;
 }
@@ -52,16 +52,50 @@ body {
 
 /* Our services section */
 .our-services {
-  margin: 3%;
+  margin: 0% 3%;
 }
 .our-services-paragraph {
   text-align: left;
-  font-family: ubuntu;
-  margin: 3%;
+  font-family: montserrat;
+  margin: 1% 4%;
+  padding-top: 100px;
 }
 .card-bighead {
   font-family: montserrat;
 }
 .card-input {
   font-family: ubuntu;
+}
+
+/* testimonial section */
+#Testimonials-section {
+  padding-top: 100px;
+}
+.testimonials {
+  background-color: #15202b;
+  padding: 10px 50px;
+  margin-top: 70px;
+}
+.testimonial-images {
+  margin-right: 20px;
+  height: 300px;
+  width: 250px;
+  border-radius: 100%;
+}
+.testimonial-names {
+  color: #fff;
+}
+.testimonials-paragraph {
+  color: #fff;
+  font-family: ubuntu;
+  font-size: x-large;
+  line-height: 2;
+  margin: 5%;
+}
+
+.carousel-control-next-icon {
+  margin-left: 150px;
+}
+.carousel-control-prev-icon {
+  margin-right: 150px;
 }
