@@ -9,12 +9,13 @@ body {
 .navbar-brand {
   margin-left: 45px;
   font-size: x-large;
+  font-family: ubuntu;
 }
 .nav-item {
   margin-left: 20px;
 }
 .nav-items {
-  margin-left: 45rem;
+  margin-left: 35rem;
 }
 
 /* body section */
@@ -102,6 +103,10 @@ body {
 }
 
 /* Team section */
+
+.team-images {
+  margin: 5%;
+}
 
 .teams-image {
   border-radius: 100%;
